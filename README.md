@@ -60,8 +60,8 @@ Aplikasi ini mengambil data secara dinamis dari Google Sheets menggunakan *endpo
 
 ---
 
-## 📌 Informasi Versi & Lisensi
+## 📌 Informasi Versi & Pengembang
 
 * **Versi**: `V.0.1.2026`
 * **Pengembang**: **N2** (`by N2 | V.0.1.2026`)
-* **Wilayah**: Kabupaten Wonogiri, Jawa Tengah
+* **Wilayah**: Wonogiri, Jawa Tengah
